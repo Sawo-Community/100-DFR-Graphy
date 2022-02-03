@@ -27,7 +27,9 @@ Graphy is an online platform that empowers content creators and experts to scale
      - Engaging in the community forums
      - Sending notifications, writing blogs, etc.
 
-**Output** - 
+**Output** - You have to create an onboarding journey for the user, starting right after they landed on the landing page, helping them find the right value in the product that they have been looking for, and eventually influencing them for purchasing any suitable plan.
+
+**Essentials** - Before getting started, it is highly recommended to check out the product by clicking [here](https://graphy.com/?utm_campaign=100daysfeaturerequest). Also, check out the features and the limitations of the free plan by clicking [here](https://graphy.com/pricing).
 
 **Note** - Submissions should be complete and of production quality with good UI and UX. Only the ones that meet the criteria will be eligible.
 
