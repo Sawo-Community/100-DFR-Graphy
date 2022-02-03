@@ -10,7 +10,24 @@ Graphy is an online platform that empowers content creators and experts to scale
 
 ## Statement No. 1
 
+**Problem** - Currently, Graphy have a free trial that helps the user explore the functionalities in the product. But, to make the purchase decision, the team want the user to identify the right value in the product.
 
+**Approach to Solve** - The product should be completely self-serve till the point where they find value in the product, without the intervention of any human support. There are 3 categories across which critical actions are bucketed:
+  - Setting up their course platform
+     - Integrate payments
+     - Set up a custom domain
+     - Customize the landing page
+  - Launching and selling courses
+     - Set up the course: name, description, etc
+     - Define course curriculum
+     - Upload content set up content security
+     - Customize course landing page
+  - Conducting sessions, live quizzes, interacting, etc.
+     - Scheduling and conducting a session/quiz
+     - Engaging in the community forums
+     - Sending notifications, writing blogs, etc.
+
+**Output** - 
 
 **Note** - Submissions should be complete and of production quality with good UI and UX. Only the ones that meet the criteria will be eligible.
 
